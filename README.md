@@ -87,7 +87,3 @@ Deployment
 The application is deployed using GitHub Pages.
 
 Live URL: https://malaz-mo456.github.io/WeatherMap/
-
-The application is deployed using GitHub Pages.
-
-Live URL: https://malaz-mo456.github.io/WeatherMap/
