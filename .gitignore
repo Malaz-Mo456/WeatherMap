@@ -1,0 +1,10 @@
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables (if added later)
+.env
