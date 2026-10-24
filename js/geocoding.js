@@ -8,9 +8,10 @@ async function getCityCoordinates(cityName) {
         `?q=${encodeURIComponent(cityName)}` +
         `&limit=1` +
         `&appid=${apiKey}`;
+        // wait until fetch response
 
     const response = await fetch(url);
-
+ // test the type of response
     if (!response.ok) {
         if (response.status === 401) {
             throw new Error(
